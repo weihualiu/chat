@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/weihualiu/chat-demo/src/server"
+	"github.com/weihualiu/chat/src/server"
 	"log"
 	//"net"
 )
